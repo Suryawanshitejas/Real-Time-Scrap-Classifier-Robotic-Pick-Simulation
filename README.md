@@ -124,11 +124,8 @@ Inference Speed: ~80ms per frame on CPU
 ## 🎥 Demo Video
 
 Here’s the real-time working of my Scrap Classifier 👇  
+https://github.com/user-attachments/assets/088f8501-0811-4e78-8e9b-91c5d0852cca
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/TejasSuryawanshi158/ScrapClassifier/raw/main/videos/Tejas_Suryawanshi_RealTime_ScrapClassifier_Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 👨‍💻 Author
 Name: Tejas Suryawanshi
