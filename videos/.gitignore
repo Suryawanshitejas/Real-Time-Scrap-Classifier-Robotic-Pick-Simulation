@@ -1,0 +1,14 @@
+# Ignore virtual environment and large folders
+.venv/
+__pycache__/
+runs/
+dataset/
+data_raw/
+outputs/
+videos/
+*.pt
+*.mp4
+*.zip
+*.lib
+*.dll
+*.pyd
