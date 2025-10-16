@@ -118,15 +118,12 @@ Model: yolov8n.pt (fine-tuned on Waste Dataset)
 
 Inference Speed: ~80ms per frame on CPU
 
-
 ## 🎥 Demo Video
 
-Here’s the real-time working of my Scrap Classifier 👇  
+Watch the live demo here:  
+[👉 Tejas_Suryawanshi_RealTime_ScrapClassifier_Demo](https://drive.google.com/file/d/1YbyqsRSyHMshEDWa6pnBae_SKrH3SmGV/view?usp=sharing)
+(Shows YOLOv8 real-time detection with Streamlit dashboard — material classification and pick-point logging)
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Suryawanshitejas/Real-Time-Scrap-Classifier-Robotic-Pick-Simulation/raw/main/videos/Tejas_Suryawanshi_RealTime_ScrapClassifier_Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
